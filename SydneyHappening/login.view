@@ -13,8 +13,7 @@
         </div>
         <div class="form-actions">
             <button type="submit" ng-disabled="form.$invalid || vm.dataLoading" class="btn btn-primary">Login</button>
-
-            <a href="#!/register" class="btn btn-link">Register</a>
+               <a href="#!/register" class="btn btn-link">Register</a>
         </div>
     </form>
 </div>
